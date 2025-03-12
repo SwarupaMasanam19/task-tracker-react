@@ -21,7 +21,7 @@ A simple and responsive task tracker built with React and TypeScript. The app al
 1. Clone the repository:
 
    
-   git clone https://github.com/your-username/task-tracker-react.git
+   git clone https://github.com/SwarupaMasanam19/task-tracker-react.git
  
 
 2. Navigate to the project directory:
